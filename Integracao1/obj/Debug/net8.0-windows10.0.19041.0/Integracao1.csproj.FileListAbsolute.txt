@@ -1,0 +1,12 @@
+C:\Users\Davi\source\repos\PlataformaCompra\Integracao1\bin\Debug\net8.0-windows10.0.19041.0\Integracao1.deps.json
+C:\Users\Davi\source\repos\PlataformaCompra\Integracao1\bin\Debug\net8.0-windows10.0.19041.0\Integracao1.dll
+C:\Users\Davi\source\repos\PlataformaCompra\Integracao1\bin\Debug\net8.0-windows10.0.19041.0\Integracao1.pdb
+C:\Users\Davi\source\repos\PlataformaCompra\Integracao1\obj\Debug\net8.0-windows10.0.19041.0\Integracao1.csproj.AssemblyReference.cache
+C:\Users\Davi\source\repos\PlataformaCompra\Integracao1\obj\Debug\net8.0-windows10.0.19041.0\Integracao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\source\repos\PlataformaCompra\Integracao1\obj\Debug\net8.0-windows10.0.19041.0\Integracao1.AssemblyInfoInputs.cache
+C:\Users\Davi\source\repos\PlataformaCompra\Integracao1\obj\Debug\net8.0-windows10.0.19041.0\Integracao1.AssemblyInfo.cs
+C:\Users\Davi\source\repos\PlataformaCompra\Integracao1\obj\Debug\net8.0-windows10.0.19041.0\Integracao1.csproj.CoreCompileInputs.cache
+C:\Users\Davi\source\repos\PlataformaCompra\Integracao1\obj\Debug\net8.0-windows10.0.19041.0\Integracao1.dll
+C:\Users\Davi\source\repos\PlataformaCompra\Integracao1\obj\Debug\net8.0-windows10.0.19041.0\refint\Integracao1.dll
+C:\Users\Davi\source\repos\PlataformaCompra\Integracao1\obj\Debug\net8.0-windows10.0.19041.0\Integracao1.pdb
+C:\Users\Davi\source\repos\PlataformaCompra\Integracao1\obj\Debug\net8.0-windows10.0.19041.0\ref\Integracao1.dll

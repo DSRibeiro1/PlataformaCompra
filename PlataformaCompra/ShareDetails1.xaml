@@ -1,0 +1,24 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PlataformaCompra.ShareDetails1"
+             Title="Detalhes"
+             BackgroundColor="#E6F0FF">
+
+    <VerticalStackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+        <Image x:Name="Logotipo"
+               Source="compravenda.jpg"
+               HeightRequest="250"
+               Aspect="AspectFit"
+               VerticalOptions="CenterAndExpand"
+               SemanticProperties.Description="dot net bot in a race car number eight" />
+
+        <Label x:Name="Dados"
+               Text="Descrição"
+               HorizontalOptions="CenterAndExpand"
+               VerticalOptions="CenterAndExpand" />
+
+        <Label Text="XXXXXXX"
+               HorizontalOptions="CenterAndExpand"
+               VerticalOptions="CenterAndExpand" />
+    </VerticalStackLayout>
+</ContentPage>

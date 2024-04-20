@@ -1,0 +1,3 @@
+C:\Users\Davi\source\repos\PlataformaCompra\Dominio\Dominio.csproj;neutral
+C:\Users\Davi\source\repos\PlataformaCompra\Integracao1\Integracao1.csproj;neutral
+C:\Users\Davi\source\repos\PlataformaCompra\PlataformaCompra\PlataformaCompra.csproj;x64

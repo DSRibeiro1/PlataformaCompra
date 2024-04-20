@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Davi\\source\\repos\\PlataformaCompra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D5530-0393-45B9-95D4-42B08D0074EC}|PlataformaCompra\\PlataformaCompra.csproj|c:\\users\\davi\\source\\repos\\plataformacompra\\plataformacompra\\sharedetails1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E9D5530-0393-45B9-95D4-42B08D0074EC}|PlataformaCompra\\PlataformaCompra.csproj|solutionrelative:plataformacompra\\sharedetails1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D5530-0393-45B9-95D4-42B08D0074EC}|PlataformaCompra\\PlataformaCompra.csproj|c:\\users\\davi\\source\\repos\\plataformacompra\\plataformacompra\\sharedetails1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D5530-0393-45B9-95D4-42B08D0074EC}|PlataformaCompra\\PlataformaCompra.csproj|solutionrelative:plataformacompra\\sharedetails1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D5530-0393-45B9-95D4-42B08D0074EC}|PlataformaCompra\\PlataformaCompra.csproj|c:\\users\\davi\\source\\repos\\plataformacompra\\plataformacompra\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E9D5530-0393-45B9-95D4-42B08D0074EC}|PlataformaCompra\\PlataformaCompra.csproj|solutionrelative:plataformacompra\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D5530-0393-45B9-95D4-42B08D0074EC}|PlataformaCompra\\PlataformaCompra.csproj|c:\\users\\davi\\source\\repos\\plataformacompra\\plataformacompra\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D5530-0393-45B9-95D4-42B08D0074EC}|PlataformaCompra\\PlataformaCompra.csproj|solutionrelative:plataformacompra\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04957A8D-0D0E-4DB3-96B1-1948835C7190}|Integracao1\\Integracao1.csproj|c:\\users\\davi\\source\\repos\\plataformacompra\\integracao1\\baseclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04957A8D-0D0E-4DB3-96B1-1948835C7190}|Integracao1\\Integracao1.csproj|solutionrelative:integracao1\\baseclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2FC3AF-C46C-4DF4-BF39-03815BB38034}|Dominio\\Dominio.csproj|c:\\users\\davi\\source\\repos\\plataformacompra\\dominio\\entidades\\acao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2FC3AF-C46C-4DF4-BF39-03815BB38034}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entidades\\acao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D5530-0393-45B9-95D4-42B08D0074EC}|PlataformaCompra\\PlataformaCompra.csproj|c:\\users\\davi\\source\\repos\\plataformacompra\\plataformacompra\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E9D5530-0393-45B9-95D4-42B08D0074EC}|PlataformaCompra\\PlataformaCompra.csproj|solutionrelative:plataformacompra\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D5530-0393-45B9-95D4-42B08D0074EC}|PlataformaCompra\\PlataformaCompra.csproj|c:\\users\\davi\\source\\repos\\plataformacompra\\plataformacompra\\plataformacompra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E9D5530-0393-45B9-95D4-42B08D0074EC}|PlataformaCompra\\PlataformaCompra.csproj|solutionrelative:plataformacompra\\plataformacompra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseClient.cs",
+              "DocumentMoniker": "C:\\Users\\Davi\\source\\repos\\PlataformaCompra\\Integracao1\\BaseClient.cs",
+              "RelativeDocumentMoniker": "Integracao1\\BaseClient.cs",
+              "ToolTip": "C:\\Users\\Davi\\source\\repos\\PlataformaCompra\\Integracao1\\BaseClient.cs",
+              "RelativeToolTip": "Integracao1\\BaseClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T02:15:12.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Acao.cs",
+              "DocumentMoniker": "C:\\Users\\Davi\\source\\repos\\PlataformaCompra\\Dominio\\Entidades\\Acao.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Acao.cs",
+              "ToolTip": "C:\\Users\\Davi\\source\\repos\\PlataformaCompra\\Dominio\\Entidades\\Acao.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Acao.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAYwG8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:38:07.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShareDetails1.xaml",
+              "DocumentMoniker": "C:\\Users\\Davi\\source\\repos\\PlataformaCompra\\PlataformaCompra\\ShareDetails1.xaml",
+              "RelativeDocumentMoniker": "PlataformaCompra\\ShareDetails1.xaml",
+              "ToolTip": "C:\\Users\\Davi\\source\\repos\\PlataformaCompra\\PlataformaCompra\\ShareDetails1.xaml",
+              "RelativeToolTip": "PlataformaCompra\\ShareDetails1.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-19T23:13:03.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShareDetails1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Davi\\source\\repos\\PlataformaCompra\\PlataformaCompra\\ShareDetails1.xaml.cs",
+              "RelativeDocumentMoniker": "PlataformaCompra\\ShareDetails1.xaml.cs",
+              "ToolTip": "C:\\Users\\Davi\\source\\repos\\PlataformaCompra\\PlataformaCompra\\ShareDetails1.xaml.cs",
+              "RelativeToolTip": "PlataformaCompra\\ShareDetails1.xaml.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAiwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T23:36:45.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Davi\\source\\repos\\PlataformaCompra\\PlataformaCompra\\MainPage.xaml",
+              "RelativeDocumentMoniker": "PlataformaCompra\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Davi\\source\\repos\\PlataformaCompra\\PlataformaCompra\\MainPage.xaml",
+              "RelativeToolTip": "PlataformaCompra\\MainPage.xaml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABAAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-19T22:40:56.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Davi\\source\\repos\\PlataformaCompra\\PlataformaCompra\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "PlataformaCompra\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Davi\\source\\repos\\PlataformaCompra\\PlataformaCompra\\MainPage.xaml.cs",
+              "RelativeToolTip": "PlataformaCompra\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvxQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T22:39:12.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlataformaCompra",
+              "DocumentMoniker": "C:\\Users\\Davi\\source\\repos\\PlataformaCompra\\PlataformaCompra\\PlataformaCompra.csproj",
+              "RelativeDocumentMoniker": "PlataformaCompra\\PlataformaCompra.csproj",
+              "ToolTip": "C:\\Users\\Davi\\source\\repos\\PlataformaCompra\\PlataformaCompra\\PlataformaCompra.csproj",
+              "RelativeToolTip": "PlataformaCompra\\PlataformaCompra.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-20T02:42:04.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Davi\\source\\repos\\PlataformaCompra\\PlataformaCompra\\AppShell.xaml",
+              "RelativeDocumentMoniker": "PlataformaCompra\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Davi\\source\\repos\\PlataformaCompra\\PlataformaCompra\\AppShell.xaml",
+              "RelativeToolTip": "PlataformaCompra\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-20T00:24:43.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
